@@ -1,0 +1,6 @@
+     name     | count 
+--------------+-------
+ re-narration |  1060
+ img-anno     |  3613
+ txt-anno     |    14
+ idh-mowl     |    17
