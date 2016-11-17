@@ -6,10 +6,14 @@ This code pulls sweets from http://thestore.swtr.in/ and stores it in a locally 
 
 To install requirements
 
-` $ pip install -r requirements.txt
+```bash
+$ pip install -r requirements.txt
+```
 
 Run an instance of MangoServer on the default port.
 
 Then run
 
-` $ python pull.py img-anno
+```bash
+ $ python pull.py img-anno
+```
